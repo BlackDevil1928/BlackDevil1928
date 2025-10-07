@@ -4,13 +4,15 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="3D Animation Cube" height="200"/>
   <br/>
-  I'm a passionate BTech student specializing in Computer Technology, with a love for building, learning, and exploring the possibilities of tech. From low-level programming to modern web stacks, I aim to create, innovate, and solve real-world problems through code.
+  I'm a passionate BTech student specializing in Computer Technology, with a love for building, learning, and exploring the possibilities of tech. From low-level programming to modern web stacks, I'm always eager to dive into new technologies and creative solutions.
 </div>
 
 ## 💻 Languages & Skills
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY2MjUyNTUsIm5iZiI6MTc1NjYyNDk1NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODMxVDA3MjIzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkNjk3MGY0MDNhMTdmMTUyZjhlODBlNjFhMDY2NGFlOWE3NzJkZWQwN2NmOGFmOTJlZmE0ZWZhMzk2YjA0NWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tZDIgA95zUkY7DTYzsbIIW5OY5LWzzZrRasIrykRogc" alt="Languages Banner" height="150"/>
+  <img src="https://raw.githubusercontent.com/darshanbagade/BEPb/refs/heads/main/src/header_.png" alt="Language and Skills Banner" style="max-width:100%;" />
+</div>
+
   <br/>
 </div>
 
@@ -41,7 +43,7 @@ Coding is not just my study—it's my creative outlet. Whether it's developing a
 ## 📫 Connect With Me
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY2MjUyNTUsIm5iZiI6MTc1NjYyNDk1NSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODMxVDA3MjIzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJlYzkwMjk5NzIyNDhhYzJiNTNjZTI0ZDJmYjgwM2UyMWZkMDExYmY5ZGE2OGE1MTQzNjNmZTZlYWZiMWM2YjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qzddheSIU_vU8m4pJdBNto9SvmRX7PLXMZSGZ9zK5cA" alt="Connect Banner" height="120"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiZ2l0aHViLmNvbSIsImV4cCI6MTg1NDczNzI5MiwiaWF0IjoxODU0NzM2OTkyfQ.lsXeQEE1K6fI0Nf4uY3VgInM9aB9v2xYw7i_WsYXw5w" alt="Connect" height="200"/>
   <br/><br/>
   
   <a href="https://linkedin.com/in/laveshhasani">
