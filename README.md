@@ -61,6 +61,10 @@ Coding is not just my study—it's my creative outlet. Whether it's developing a
 
 ---
 
+## 📫 Open Contributer
+
+
+---
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
