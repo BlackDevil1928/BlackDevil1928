@@ -61,7 +61,7 @@ Coding is not just my study—it's my creative outlet. Whether it's developing a
 
 ---
 
-## 📫 Open Contributer
+## 📫 Holopin Badges
 <img src="https://holopin.me/blackdevil1928" alt="Holopin" weidth="300" Height="300"/>
 
 ---
