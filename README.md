@@ -71,5 +71,5 @@ Coding is not just my study—it's my creative outlet. Whether it's developing a
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BlackDevil1928&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackDevil1928 & theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackDevil1928&theme=radical" height="170"/>
 </div>
