@@ -45,7 +45,7 @@ Coding is not just my study—it's my creative outlet. Whether it's developing a
 
 <p align="center">
   <a href="mailto:laveshhasani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-laveshhasani%40mail.com-EA4335?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-laveshhasani%40Gmail.com-EA4335?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://twitter.com/Lavesh_28">
     <img src="https://img.shields.io/badge/Twitter-@Lavesh_28-1DA1F2?style=for-the-badge&logo=twitter" />
